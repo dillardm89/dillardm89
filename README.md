@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Marianne Dillard!
 
-#Experienced data analyst, civil/electrical engineer, project manager, and now expanding into software development!
+# Experienced data analyst, civil/electrical engineer, project manager, and now expanding into software development!
 
-#Feel free to message me. Let's collaborate on something awesome! ☺️
+# Feel free to message me. Let's collaborate on something awesome! ☺️
 
 ![](https://komarev.com/ghpvc/?username=dillardm89)
 
