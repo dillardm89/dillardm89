@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋 I'm Marianne Dillard!
 
-<!--
-**dillardm89/dillardm89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Experienced data analyst, civil/electrical engineer, project manager, and now expanding into software development!
 
-Here are some ideas to get you started:
+#Feel free to message me. Let's collaborate on something awesome! ☺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=dillardm89)
+
+
+    💡 Learn more about me on www.mariannedillard.com
+    
+    📄 I regularly write articles on www.mariannedillard.com/blog
+
+    📫 How to reach me mail@mariannedillard.com
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dillardm)
+
+Languages and Tools that I know or am learning:
+  ☑️ HTML
+  ☑️ CSS / Bootstrap
+  ☑️ JavaScript / Node / Express
+  ☑️ Python
+  ☑️ SQL / MySQL / PostreSQL
+  ☑️ NoSQL / MongoDB
+  ☑️ R Programming
+  ☑️ Linux
+  ☑️ Docker
+  ☑️ Power BI / Tableau
+  🔲 React
+  🔲 Django
+  🔲 Typescript
+  🔲 Machine Learning / AI
+
