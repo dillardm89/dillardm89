@@ -9,8 +9,8 @@
    📄 I regularly write articles on www.mariannedillard.com/blog  
    📫 How to reach me mail@mariannedillard.com  
 
-Connect with Me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dillardm)
+Connect with Me:  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dillardm)
 
 Languages and Tools that I know or am learning:  
    ☑️ HTML  
