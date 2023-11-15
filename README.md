@@ -25,5 +25,6 @@ Languages and Tools that I know or am learning:
    🔲 React  
    🔲 Django  
    🔲 Typescript  
+   🔲 PHP  
    🔲 Machine Learning / AI  
    
