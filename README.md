@@ -22,9 +22,8 @@ Languages and Tools that I know or am learning:
    ☑️ Linux  
    ☑️ Docker  
    ☑️ Power BI / Tableau  
-   🔲 React  
+   ☑️ React  
    🔲 Django  
    🔲 Typescript  
    🔲 PHP  
-   🔲 Machine Learning / AI  
    
