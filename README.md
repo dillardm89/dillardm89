@@ -23,7 +23,7 @@ Languages and Tools that I know or am learning:
    ☑️ Docker  
    ☑️ Power BI / Tableau  
    ☑️ React  
-   🔲 Django  
-   🔲 Typescript  
-   🔲 PHP  
-   
+   ☑️ Django  
+   ☑️ Flask  
+   ☑️ Typescript  
+   ☑️ PHP  
