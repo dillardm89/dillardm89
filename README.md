@@ -13,20 +13,20 @@ Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.
 
 Languages and Tools that I know or am learning:  
    ☑️ HTML  
-   ☑️ CSS
-   ☑️ Bootstrap
+   ☑️ CSS  
+   ☑️ Bootstrap  
    ☑️ Tailwind  
-   ☑️ JavaScript
-   ☑️ Node
+   ☑️ JavaScript  
+   ☑️ Node  
    ☑️ Express  
-   ☑️ React   
-   ☑️ Typescript 
-   ☑️ Python
-   ☑️ Django
-   ☑️ Flask 
-   ☑️ PHP
-   ☑️ PostreSQL / MySQL
-   ☑️ MongoDB / Mongoose 
+   ☑️ React  
+   ☑️ Typescript  
+   ☑️ Python  
+   ☑️ Django  
+   ☑️ Flask  
+   ☑️ PHP  
+   ☑️ PostreSQL / MySQL  
+   ☑️ MongoDB / Mongoose  
    ☑️ R Programming  
    ☑️ Linux  
    ☑️ Docker  
