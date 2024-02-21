@@ -11,23 +11,17 @@
 
 Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dillardm)
 
-Languages and Tools that I know or am learning:  
+Languages and tools that I am proficient with:  
    ☑️ HTML  
-   ☑️ CSS  
-   ☑️ Bootstrap  
-   ☑️ Tailwind  
-   ☑️ JavaScript  
-   ☑️ Node  
-   ☑️ Express  
-   ☑️ React  
+   ☑️ CSS / Bootstrap / Tailwind  
+   ☑️ JavaScript / React
    ☑️ Typescript  
-   ☑️ Python  
-   ☑️ Django  
-   ☑️ Flask  
-   ☑️ PHP  
+   ☑️ Node / Express  
+   ☑️ Python / Django / Flask 
+   ☑️ PHP / Laravel  
+   ☑️ Linux  
    ☑️ PostreSQL / MySQL  
    ☑️ MongoDB / Mongoose  
    ☑️ R Programming  
-   ☑️ Linux  
-   ☑️ Docker  
    ☑️ Power BI / Tableau  
+   ☑️ Docker  
