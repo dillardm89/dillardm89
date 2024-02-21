@@ -14,10 +14,10 @@ Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.
 Languages and tools that I am proficient with:  
    ☑️ HTML  
    ☑️ CSS / Bootstrap / Tailwind  
-   ☑️ JavaScript / React
+   ☑️ JavaScript / React  
    ☑️ Typescript  
    ☑️ Node / Express  
-   ☑️ Python / Django / Flask 
+   ☑️ Python / Django / Flask  
    ☑️ PHP / Laravel  
    ☑️ Linux  
    ☑️ PostreSQL / MySQL  
