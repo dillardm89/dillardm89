@@ -18,7 +18,7 @@ Languages and tools that I am proficient with:
    ☑️ Typescript  
    ☑️ Node / Express  
    ☑️ Python / Django / Flask  
-   ☑️ PHP / Laravel  
+   ☑️ PHP  
    ☑️ Linux  
    ☑️ PostreSQL / MySQL  
    ☑️ MongoDB / Mongoose  
