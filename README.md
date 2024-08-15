@@ -18,7 +18,7 @@ Languages and tools that I am proficient with:
    ☑️ Python / Django / Flask  
    ☑️ PHP / Laravel  
    ☑️ HTML  
-   ☑️ CSS / Bootstrap / Tailwind 
+   ☑️ CSS / Bootstrap / Tailwind  
    ☑️ PostreSQL / MySQL  
    ☑️ MongoDB / Mongoose  
    ☑️ Linux  
