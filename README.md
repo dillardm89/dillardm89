@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Marianne Dillard!
 
-### Experienced data analyst, civil/electrical engineer, project manager, and now expanding into software development. ☺️  Feel free to message me. Let's collaborate on something awesome!
+### Experienced software engineer, data analyst, civil/electrical engineer, and project manager. ☺️  Feel free to message me. Let's collaborate on something awesome!
 
 ![](https://komarev.com/ghpvc/?username=dillardm89)
 
@@ -20,7 +20,6 @@ Languages and tools that I am proficient with:
    ☑️ CSS / Bootstrap / Tailwind  
    ☑️ PostreSQL / MySQL  
    ☑️ MongoDB / Mongoose  
-   ☑️ Linux  
-   ☑️ Docker  
-   ☑️ R Programming  
+   ☑️ Linux / Bash  
+   ☑️ Docker    
    ☑️ Power BI / Tableau  
