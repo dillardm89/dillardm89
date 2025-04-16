@@ -5,9 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=dillardm89)
 
 
-   💡 Learn more about me on ![my website](https://www.mariannedillard.com)  
-   📄 I regularly write articles on ![my blog](https://www.mariannedillard.com/blog)  
-   💚 Check out one of my personal projects: ![PlanZen](https://planzen.mariannedillard.com)  
+   💡 Learn more about me on [![my website]](https://www.mariannedillard.com)  
+   📄 I regularly write articles on [![my blog]](https://www.mariannedillard.com/blog)  
+   💚 Check out one of my personal projects: [![PlanZen]](https://planzen.mariannedillard.com)  
    📫 How to reach me: mail@mariannedillard.com  
    Or Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dillardm)  
 
